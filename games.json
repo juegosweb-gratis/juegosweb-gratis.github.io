@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "3d-maze-control",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/300.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-piggies",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/301.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bus-jam",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/302.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "perfect-asmr-cleaning",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/303.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "race-time",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/304.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mahjong-classic-webgl",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/305.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "interstellar",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/306.webp",
+    "genre": "Unblocked, WebGame, Github.io, Discord, Games"
+  },
+  {
+    "id": "dop-draw-one-part",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/307.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/308.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "garden-block-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/309.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "motorcycle-racer-road-mayhem",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/310.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "high-heel-design",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/311.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "moto-road-rash-3d-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/312.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "squad-assembler",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/313.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "safe-merge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/314.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "gobattleio",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/315.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-match-seasons-3",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/316.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombie-raft",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/317.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "nuclear-day-survival",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/318.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "bffs-cherry-blossom-celebration",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/319.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "king-kong-kart-racing",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/320.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "gold-miner-classic",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/321.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "capybara-block-drop",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/322.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tiktok-street-style",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/323.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-tanks-firestorm",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/324.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "kick-and-ride",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/325.webp",
+    "genre": "Puzzle, Sports"
+  },
+  {
+    "id": "crazy-traffic-racer",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/326.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "solitaire-summer-klondike",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/327.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "koi-fish-pond-idle-merge-game",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/328.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cowboys-duel",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/329.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "transform-car-battle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/330.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-match",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/331.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hexa-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/332.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "driverz-ed",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/333.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "monster-school-vs-siren-head",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/334.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "high-heels-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/335.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "princesses-of-quadrobics",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/336.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ninjaroof",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/337.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "find-it-find-the-differences",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/338.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-magic-islands",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/339.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "shadow-stickman-fight",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/340.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "fashion-makeover-dash",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/341.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "321-choose-the-different",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/342.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-nuts",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/343.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "my-dreamy-flora-fashion-look",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/344.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "exo-observation",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/345.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "planet-merge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/346.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "plane-chase",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/347.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "color-3d-bump-it-up",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/348.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ninja-crossword-challenge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/349.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wordmix",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/350.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-objects-crime-scene",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/351.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "path-ice",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/352.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "street-ball-jam",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/353.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jump-man",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/354.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "overprotective-boyfriend",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/355.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tile-hex-world-red-vs-blue",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/356.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "hand-over-hand",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/357.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "oil-digging",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/358.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "winter-wonderland-mahjong",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/359.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "wednesday-addams-beauty-salon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/360.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "vortex-ball",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/361.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "wild-tanks",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/362.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-challenge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/363.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-shooter-free-3",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/364.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "superhero-phone-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/365.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "highschool-mean-girls-3",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/366.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hexa-blast-game-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/367.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "alien-chase-swing-and-fly",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/368.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farming-life",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/369.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "block-parkour-trials",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/370.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "starry-style-dorama-of-dream",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/371.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "extreme-makeover-harley-edition",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/372.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cs-chaos-squad",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/373.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bacteria-life-death",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/374.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "brainrot-ice-truck",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/375.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "auto-ninja",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/376.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "panda-kitchen-idle-tycoon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/377.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "happy-asmr-care",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/378.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "save-my-hero",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/379.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/380.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-stack-christmas",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/381.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "ancient-wars-caesar",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/382.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "color-ring-sorting-match",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/383.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-witch-tower-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/384.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "xmas-hexa-sort",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/385.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "lucky-brainrot-blocks-online",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/386.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "magic-sort",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/387.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "truck-simulator-arcade-championship",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/388.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "flower-fairy-adventure-story",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/389.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "siberian-assault",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/390.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "new-year-s-eve-makeup",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/391.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "trucktopolis-cooking-chaos",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/392.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "lurkers-io",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/393.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "body-care-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/394.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "offroad-muddy-trucks",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/395.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "cake-merge-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/396.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bone-doctor-shoulder-case",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/397.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "push-push-cat",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/398.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kawaii-friends-tiles-matcher",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/399.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "speedrun-platformer",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/400.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "bomber-battle-arena",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/401.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "rootlings-secrets-of-the-depths",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/402.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "archers-ragdoll-physics",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/403.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "bolts-and-nuts",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/404.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "chicken-jump-a-tap-challenge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/405.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rescue-hero",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/406.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "horror-minecraft-partytime",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/407.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "festival-vibes-makeup",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/408.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "roller-coaster-rush",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/409.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "just-ludo",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/410.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/411.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "shark-chomp-chase",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/412.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "the-white-room-5",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/413.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "puzzle-fever",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/414.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nugget-man-survival-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/415.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "kick-lucky-boxes-online",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/416.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "atlantic-sky-hunter-xtreme",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/417.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "falling-man",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/418.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ice-cream-sort",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/419.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "geometry-rush-4d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/420.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rocket-sky",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/421.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pyramidz2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/422.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "obby-modes-online-mini-games",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/423.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "stockings-dilemma",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/424.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dress-up-run",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/425.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "tiny-baker-ocean-jelly-cake",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/426.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "big-block-blast",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/427.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chinese-food-chef-dudu",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/428.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "garden-tales-mahjong-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/429.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "jewel-solitaire-tripeaks",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/430.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "war-lands",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/431.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "what-s-the-difference-online",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/432.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "head-basketball",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/433.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "block-puzzle-slide-block-jam",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/434.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gta-grand-vegas-crime",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/435.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "skate-hooligans",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/436.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "land-cruiser-offroad-driver",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/437.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "meow-block-color-collect",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/438.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "playground-parkour",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/439.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "tricky-arrow",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/440.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "flag-master-world-flags-quiz",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/441.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "syder-hyper-drive",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/442.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "fill-glass",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/443.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bullet-superhero",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/444.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "pixel-path",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/445.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "good-yard",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/446.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-car-parking-and-stunt",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/447.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "xeno-defense-protocol",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/448.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hero-wizard-save-your-girlfriend",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/449.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "paradise-journey-match3",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/450.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "shape-transform-race",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/451.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "piggy-clicker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/452.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "beat-blader-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/453.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-parkour-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/454.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "halloween-challenge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/455.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hazmob-fps",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/456.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "bridge-wars",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/457.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "brainrot-world-holeio",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/458.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "math-box-balance",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/459.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "coloring-by-numbers-pixel-rooms",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/460.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "match-3-dream-room",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/461.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "connect-the-dots-color-lines",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/462.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vex-x3m-3",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/463.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hungry-corgi-cute-music-game",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/464.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-block-honey-cells",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/465.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/466.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "valentines-love-link",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/467.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "the-shape",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/468.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "conquerio",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/469.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "the-hardest-puzzle-ever",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/470.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "purrfect-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/471.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "poptropica",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/472.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zombie-road",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/473.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "vex-try-to-fly",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/474.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "grand-clash-arena",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/475.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "bubble-up",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/476.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-pixel",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/477.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mate-in-chess",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/478.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "association-connect-word",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/479.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-tank-hero",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/480.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "echolocation-shooter",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/481.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "giant-wanted-monster",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/482.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cop-run-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/483.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-sprunki-clicker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/484.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "construction-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/485.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "minigiants-io",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/486.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-of-fortune",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/487.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "cake-sorting-deluxe",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/488.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "space-cleaner",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/489.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "crown-cannon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/490.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "k-wedding-dream",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/491.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "merge-balls-new-years-toys-in-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/492.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-heroes",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/493.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "blackriver-mystery-hidden-objects",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/494.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "brick-blaze",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/495.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "slicer-duo",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/496.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mahjong-tour",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/497.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "suika-kawaii-cat-merge-game",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/498.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "wheel-in-the-face",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/499.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "sheep-sheep-duck",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/500.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "astral-escape",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/501.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "find-hidden-cats",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/502.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "prsino",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/503.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "luna-and-the-magic-maze",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/504.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "knifeio",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/505.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "kiki-world-kawaii-doll-decor",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/506.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gun-racing",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/507.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "striped-fruit-watermelon-land",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/508.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bloom-within-a-life-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/509.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "funny-doctor-emergency",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/510.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "single-stroke-energy-line-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/511.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dig-out-of-prison",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/512.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "neon-dash-cyber-run",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/513.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "draw-to-fly",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/514.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "elemental-monsters-merge-evolution",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/515.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "real-motorbike-simulator-race-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/516.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "cars-vs-zombies",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/517.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tiny-football-cup-2026",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/518.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "mecha-duel",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/519.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "truck-simulator-russia",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/520.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "earwax-clinic",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/521.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "2248-musical",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/522.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bubble-shooter-blast",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/523.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/524.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "gt-micro-racers",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/525.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "escape-or-die-troll-devil-levels",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/526.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "romantic-match-tactics",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/527.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sudo-tetroid-daily",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/528.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "moto-stunt-biker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/529.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/530.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "picture-by-pieces",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/531.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brutalmania-io",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/532.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "voxiom-io",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/533.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-mahjong-farm-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/534.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "creepy-dress-up",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/535.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "idle-factory-empire",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/536.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "swordsman-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/537.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "whats-in-my-bag",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/538.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "doggi",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/539.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sniper-for-brainrot",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/540.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "west-frontier-sharpshooter-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/541.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "sigma-boy-musical-clicker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/542.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tappy-bird-avoid-the-spikes",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/543.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-pairs-mahjong",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/544.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "food-tower-defense",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/545.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "kour-io",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/546.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-bathroom-empire-tycoon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/547.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "kalulu-tanhulu-asmr-mukbang",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/548.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "dragon-egg-master",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/549.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "offroad-climb-4x4",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/550.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "crazy-zoo-swipe-match-3-puzzle-game",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/551.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hero-match",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/552.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "magic-kingdom-hex-match",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/553.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "larry-world",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/554.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "brain-find-can-you-find-it",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/555.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "king-of-crabs",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/556.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "animal-transform-race",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/557.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "tentrix",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/558.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "number-bubble-shooter-wild-west",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/559.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "mahjong-at-home-scandinavian-edition",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/560.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "crystal-connect",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/561.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "noob-vs-zombie-apocalypse-shooting-pro",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/562.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mini-games-casual-collection",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/563.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rent-out-landlord-tycoon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/564.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/565.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "find-steal-brainrot-67-game",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/566.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mr-drifter-car-chase-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/567.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "erase-the-extra-element",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/568.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "poke-the-presidents",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/569.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "durak",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/570.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "american-block-sniper-online",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/571.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "snake-out",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/572.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "words-with-owl",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/573.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "4-hexa",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/574.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "superheroes-and-the-wand",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/575.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-pump-up-your-muscles-1-per-second",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/576.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "challenge-your-friends",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/577.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "cinema-empire-idle-tycoon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/578.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bubble-mania-shooter",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/579.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "geometry-subzero",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/580.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zombie-defense-war",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/581.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "drop-bricks-breaker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/582.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "biking-extreme-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/583.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "archer-go",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/584.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-sky",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/585.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "brainrot-cleaning",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/586.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mansion-story-match",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/587.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "end-of-world",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/588.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "just-mahjong",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/589.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hyper-knight",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/590.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hoard-master",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/591.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/592.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "house-of-celestina",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/593.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-coloring-book",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/594.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "noob-village-tower-defense",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/595.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "word-hunt",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/596.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "fennec-the-fox-click-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/597.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dolphin-couple-underwater-dress-up",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/598.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "find-it-fast",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/599.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "merge-blocks-2048",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/600.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hero-tower-war",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/601.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "squid-game-playground-shooter",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/602.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "arrow-tap-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/603.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "acox-runner",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/604.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ocean-pop",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/605.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "snow-rider-obby-parkour",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/606.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "battledudes-io",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/607.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "burger-tycoon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/608.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "freddys-nightmares-return-horror-new-year",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/609.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "pacxon-new-realms",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/610.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dop-puzzle-erase-master",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/611.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bloons-survivalio",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/612.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "ninja-climb",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/613.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "drag-match-maze-tile",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/614.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bomb-head-hot-potato",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/615.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spelunking",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/616.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "summer-connect",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/617.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "little-master-of-assembly",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/618.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "farm-block",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/619.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "geometry-open-world",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/620.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "bubble-fever-blast",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/621.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "cat-life-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/622.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "choo-choo-spider-monster-train",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/623.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "hidden-mushrooms",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/624.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "the-sort-agency",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/625.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "block-builder-jam",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/626.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "tile-connect-club",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/627.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "turbo-stunt-racing",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/628.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/629.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vega-mix-fairy-town",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/630.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "trolley-fun",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/631.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "granny-3-return-the-school",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/632.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "mosquito-bite-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/633.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bunny-blox",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/634.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fox-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/635.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "school-teacher-game-school-day",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/636.webp",
+    "genre": "Adventure, Strategy"
+  },
+  {
+    "id": "transformers-battle-for-the-city",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/637.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "super-elip-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/638.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "heist-defender",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/639.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bubble-classic",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/640.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "quest-by-country",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/641.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "treasure-champion-chest-capture",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/642.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rescue-rift",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/643.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "travel-story-match",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/644.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "shopaholic-black-friday",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/645.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fishing-bear",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/646.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-dealer-idle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/647.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "basket-champs",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/648.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "popping-candies",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/649.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "wild-race-master-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/650.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "rich-choice-run",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/651.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/652.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "summer-maze",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/653.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "texas-holdem-poker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/654.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "merge-haven",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/655.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "daily-solitaire-mahjong-classic",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/656.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mineenergy2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/657.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-shoot",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/658.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hawaii-match-5",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/659.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "words-with-prof-wisely",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/660.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "teacher-simulator-christmas-exam",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/661.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "fillwords-find-all-the-words",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/662.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "foxy-eco-sort",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/663.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cooking-festival",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/664.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "hidden-objects-island-secrets",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/665.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dinosaur-cards",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/666.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hoard-master-online",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/667.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "police-traffic-racer",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/668.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "brawl-stars-brave-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/669.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "kitty-scramble",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/670.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-draw-punch",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/671.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "asmr-beauty-clinic",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/672.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "find-the-missing-part",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/673.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "cat-football",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/674.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "fix-the-hoof",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/675.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "obby-draw-to-escape",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/676.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "labubu-doll-mukbang-asmr-unblocked",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/677.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "scary-baby-yellow-game",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/678.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "coffee-match-rush-sort-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/679.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "supermarket-shopping-for-kids",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/680.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "little-alchemy-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/681.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mega-ramp-car-stunts",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/682.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "sustainable",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/683.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "escape-from-tung-tung-sahur",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/684.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "kitchen-sorting",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/685.webp",
+    "genre": "Cooking, Puzzle"
+  },
+  {
+    "id": "snowboard-game-party",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/686.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/687.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "queen-of-mahjong",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/688.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dino-hunter-king",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/689.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "candy-maker-dessert-games",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/690.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "food-merge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/691.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "empire-city",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/692.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-cross",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/693.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "alchemy-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/694.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "incoword",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/695.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "missile-launch-master",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/696.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "turbo-race-3d",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/697.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "find-the-sprunki",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/698.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "space-raider",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/699.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "quiz-x",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/700.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "2048-match-balls",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/701.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "riders-downhill-racing",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/702.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "build-a-rollercoaster-simulator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/703.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "lamphead",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/704.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "war-robots-battles",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/705.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "cake-merge",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/706.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "diy-makeup-salon-spa-makeover-studio",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/707.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "puzzle-lines-and-knots-1",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/708.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mojicon-fruit-connect",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/709.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "kobolm-rescue",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/710.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "sand-block-blast",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/711.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-escape",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/712.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "paint-it",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/713.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "collect-honey-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/714.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "zoo-restaurant",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/715.webp",
+    "genre": "Cooking, Merge"
+  },
+  {
+    "id": "treasure-seeker",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/716.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "people-playground-ragdoll-arena",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/717.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gun-builder",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/718.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "light-line",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/719.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "world-cup-soccer-caps",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/720.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "merge-magnat-ideal-store",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/721.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stick-archer-online",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/722.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-tea",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/723.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sword-life",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/724.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hole-defense",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/725.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "battle-of-tank-steel",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/726.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "flower-collection",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/727.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "spider-evolution",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/728.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "arrow-legend",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/729.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-plane-landing",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/730.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "help-me-tricky-brain-puzzles",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/731.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "loop-survivors-zombie-city",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/732.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gods-mixer",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/733.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-flow",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/734.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "shine-seek",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/735.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "witchy-sisters-relax-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/736.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-prison-escape",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/737.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jetstream-escape",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/738.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pop-party-suika-watermelon",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/739.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "level-up-mutants",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/740.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "wonders-of-egypt-match-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/741.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "connect-clues-the-missing-professor",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/742.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tiles-of-the-unexpected-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/743.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dart-hero",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/744.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "yummy-trails",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/745.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "race-it-car-racing",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/746.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "capybara-go",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/747.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "untwist-road",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/748.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "quiz-squid-round",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/749.webp",
+    "genre": "Agility, Quiz"
+  },
+  {
+    "id": "triple-sort-3d-home-design",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/750.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dragon-draw-joust",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/751.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "hexa-sort-master",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/752.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "planet-hopper",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/753.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chess-online",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/754.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "sailor-chic-vs-pirate-charm",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/755.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "merge-hospital",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/756.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "buckshot-roulette",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/757.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "dream-room-makeover",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/758.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cannon-shooter",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/759.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "evony-the-kings-return",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/760.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "urban-assault-force",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/761.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "capybara-suika",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/762.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "radical-rappelling",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/763.webp",
+    "genre": "Sports, Strategy"
+  },
+  {
+    "id": "21a",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/764.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "crazy-axe",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/765.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "mushroom-blocks",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/766.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "witch-fairy-bff",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/767.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dynamons-8",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/768.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fruit-cafe-match-3",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/769.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dark-academia-wedding",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/770.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "super-dog-hero-dash",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/771.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "cute-rabbits-challenging-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/772.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gem-deep-digger",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/773.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "the-specimen-zero",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/774.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "gunfu-stickman-2",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/775.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "digworm-io",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/776.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-pixels",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/777.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki-gets-surgery",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/778.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "pentaword",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/779.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "z-stick-duel-fighting",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/780.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "downhill-car-ride-crash-test",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/781.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "car-out-jam",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/782.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "best-classic-freecell-solitaire",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/783.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "avatar-world-secrets",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/784.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "puzzlejam",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/785.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "split-shot-ball-adventure",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/786.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "phone-case-diy-run",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/787.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spider-bubu",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/788.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "k-pop-hunter-fashion",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/789.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-terminator",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/790.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "rope-stitch-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/791.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "draw-weapon-fight-party",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/792.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "super-bitcoin-boy",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/793.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "butterfly-sort-puzzle",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/794.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monsterella-fantasy-makeup",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/795.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sid-ginny-y2k-glam-clash",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/796.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zero-to-millionaire",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/797.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "climb-up",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/798.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "northern-lights-the-secret-of-the-forest",
+    "thumbnail": "https://juegosweb-gratis.github.io/images/799.webp",
+    "genre": "Casual"
+  }
+]

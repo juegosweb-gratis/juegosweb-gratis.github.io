@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juegosweb-gratis.github.io/sitemap.xml
+Sitemap: https://juegosweb-gratis.github.io/sitemap.txt
